@@ -17,18 +17,26 @@ I'm sincerely hope that you understand this and will not use the program for any
 | 8      | German (Deutsch)                 |
 | 9      | French (Français)                |
 | 10     | Traditional Chinese (Taiwan) (繁體中文) |
-| 11     | Simplified Chinese (Mainland China) (简体中文) |
+| 11     | Simplified Chinese (Mainland china) (简体中文) |
 
-**Warrning:** Translation to Simplified Chinese is joke
+**Note:** Translation to Simplified Chinese are contains satirical content related to [social credit system in Mainland china](https://en.wikipedia.org/wiki/Social_Credit_System). For users required accurate translation on Chinese language are recommended use translation to Traditional Chinese.
 
 # System Requirements
 
 | Requirement                          | Description                       |
 |--------------------------------------|-----------------------------------|
 | Operating System                     | Windows 7 with SP1 or higher      |
-| Processor                            | Any x86 and x86-64 processor      |
+| Processor                            | Any x86 or x86-64 processor      |
 | Disk Space                           | 15 MB on disk                     |
 
+# Useds python modules
+
+| Module       | Description                                                  |
+|--------------|--------------------------------------------------------------|
+| Tkinter      | A module for creating graphical user interfaces (GUI)       |
+| Pillow       | A module for image processing                                |
+| PyGame       | A module used for playing integrated mp3 file               |
+| PyInstaller  | A tool for compiling Python applications into executable files |
 
 
 PyQT5 version is available in this [repository](https://github.com/SakuraSakuraro/imeigen_pyqt5/)
