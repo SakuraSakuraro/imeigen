@@ -11,15 +11,13 @@ I'm sincerely hope that you understand this and will not use the program for any
 |--------|-----------------------------------|
 | 1      | English                           |
 | 2      | Japanese (日本語)                 |
-| 3      | Ukrainian (Українська)           |
-| 4      | Russian (Русский)                |
-| 5      | Belarusian (Беларуская)          |
-| 6      | Kazakh (Қазақша)                 |
-| 7      | Korean (한국어)                   |
-| 8      | German (Deutsch)                 |
-| 9      | French (Français)                |
-| 10     | Traditional Chinese (Taiwan) (繁體中文) |
-| 11     | Simplified Chinese (Mainland china) (简体中文) |
+| 3      | Korean (한국어)                   |
+| 4      | Traditional Chinese (Taiwan) (繁體中文) |
+| 5      | German (Deutsch)                 |
+| 6      | French (Français)                |
+| 7      | Ukrainian (Українська)           |
+| 8      | Kazakh (Қазақша)                 |
+| 9      | Simplified Chinese (Mainland china) (简体中文) |
 
 **Note:** Translation to Simplified Chinese are contains satirical content related to [social credit system in Mainland china](https://en.wikipedia.org/wiki/Social_Credit_System). For users required accurate translation on Chinese language are recommended use translation to Traditional Chinese.
 
